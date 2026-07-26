@@ -27,15 +27,6 @@ The objective was to understand the company's growth, profitability, financial p
 
 ---
 
-## Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here.
-
-Example:
-
-![Dashboard](Images/dashboard.png)
-
----
 
 ## Key Features
 
